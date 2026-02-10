@@ -1,6 +1,6 @@
-<![CDATA[<div align="center">
+<div align="center">
 
-# 🧠 Neuro-Symbolic Decomposition for Content-Bias-Free Syllogistic Reasoning
+# 🧠 Neuro-Symbolic Decomposition to Mitigate Content Bias in Syllogistic Reasoning
 
 ### SemEval-2026 Task 11 — Subtasks 1 & 2
 
@@ -200,4 +200,3 @@ This project is licensed under the MIT License.
 *Content bias is an architectural problem — solve it with architecture.*
 
 </div>
-]]>
