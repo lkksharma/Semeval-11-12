@@ -177,7 +177,7 @@ The symbolic kernel checks against **15 valid forms** (with existential import):
 @inproceedings{lakksh-2026-semeval,
     title     = {Neuro-Symbolic Decomposition for Content-Bias-Free 
                  Syllogistic Reasoning},
-    author    = {Team lakksh},
+    author    = {Lakksh Sharma, Krish Sharma, Jatin Bedi},
     booktitle = {Proceedings of the 20th International Workshop on 
                  Semantic Evaluation (SemEval-2026)},
     year      = {2026},
